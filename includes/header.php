@@ -6,13 +6,13 @@
 		  </div>
 		  <ul class="nav navbar-nav navbar-center" style="color:orange">
 		     <li><a href="main.php">Home</a></li>
-			 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Programs<span class="caret"></span></a>
-			    <ul class="dropdown-menu">
+			 <li ><a href="ourPrograms.php">Our Programs<span class="caret"></span></a>
+			    <!--<ul class="dropdown-menu">
 				   <li><a href="teaching.php">Teaching Section</a></li>
 				   <li><a href="Plantation.php">Plantation Drive</a></li>
 				   <li><a href="cleanliness.php">Cleanliness drive</a></li>
 				   <li><a href="awareness.php">Awareness Campaign</a></li>
-				</ul>
+				</ul>-->
 			 </li>
 			 <li><a href="OurPillars.php">Our Pillars</a></li>
 			<!-- <li class="dropdown"><a href="OurPillars.php" class="dropdown-toggle" data-toggle="dropdown">Our Pillars<span class="caret"></span></a>
