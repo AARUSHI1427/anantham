@@ -78,27 +78,21 @@
 			     <article class="margin_left">
 				    <img src="images/img6.jpg">
 					<div class="article_title">XYZ</div>
-					<div class="article_description">Every singleroom in your home is important, and each one should communicate a specific message and evoke 
-					a particular vibe. The bedroom is the place for ultimate relaxation and rejuvenation. When decorating your bedroom, you need to keep
-					these very important factors in mind.</div>
+					<div class="article_description"></div>
 				</article>
 			  </div>
 			  <div class="col-md-4">
 			      <article>
 				      <img src="images/img5.jpg">
 					  <div class="article_title">XYZ</div>
-					  <div class="article_description">Every single room in your home is important, and each one should communicate a specific message and evoke
-					  a particular vibe. The bedroom is the place for ultimate relaxation and rejuvenation. When decorating your bedroom, you need to keep these 
-					  very important factors in mind.</div>
+					  <div class="article_description">.</div>
 				</article>
 			  </div>
 			  <div class="col-md-4">
 			     <article>
 				    <img src="images/img7.jpg">
 					<div class="article_title">XYZ</div>
-					<div class="article_description">Every single room in your home is important, and each one should communicate a specific message and evoke a
-					particular vibe. The bedroom is the place for ultimate relaxation and rejuvenation. When decorating your bedroom, you need to keep these very
-					important factors in mind.</div>
+					<div class="article_description">.</div>
 				</article>
 			  </div>
 			</div>-->
