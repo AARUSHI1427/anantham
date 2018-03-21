@@ -72,8 +72,9 @@
 			</section>
 			<h1 id="Team" style="text-center">Our Team</h1><hr>
 			<div class="container-fluid bg-grey">
-		       <img src="images/ourteam.jpg" class="center-block">	
-			<!--<div class="row">
+		       <img src="images/Ourteam.jpg" class="center-block">
+             	   
+			  <!--<div class="row">
 			  <div class="col-md-4">
 			     <article class="margin_left">
 				    <img src="images/img6.jpg">
